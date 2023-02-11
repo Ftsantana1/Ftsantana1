@@ -22,7 +22,7 @@
     aling="center"
     alt="angularJs"
     src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white"
-  />
+  /><br/>
   <img
     aling="center"
     alt="html5"
@@ -37,10 +37,10 @@
     aling="center"
     alt="java"
     src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
-  />
+  /><br/>
   <img
     aling="center"
     alt="test"
     src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red"
   />
-</div><br/>
+</div>
