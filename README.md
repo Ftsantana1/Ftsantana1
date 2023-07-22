@@ -3,7 +3,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ftsantana1&show_icons=true&theme=tokyonight"/>
 </div>
 <div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ftsantana1&layout=compact)](https://github.com/anuraghazra/github-readme-stats"</div>
 <div style="display: inline_block"><br/>
   <img
     aling="center"
